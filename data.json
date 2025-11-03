@@ -1,13 +1,13 @@
 {
   "user": {
-    "name": "Турарбек",
-    "car_name": "Hyundai Sonata",
-    "car_number": "07KG908ADF",
-    "user_image": "https://raw.githubusercontent.com/EBakirdinov/data/refs/heads/main/5440731852244646917.jpg",
+    "name": "Курантбек",
+    "car_name": "Hyundai Accent",
+    "car_number": "O1KG486ATK",
+    "user_image": "https://raw.githubusercontent.com/EBakirdinov/data/refs/heads/main/avatar.jpeg",
     "activities": [
       {
         "title": "Рейтинг", 
-        "value": "4.95",
+        "value": "4.96",
         "icon": "star",
         "icon_color": "#C09827"
       },
@@ -19,7 +19,7 @@
       },
       {
         "title": "Приоритет",
-        "value": "+42",
+        "value": "+45",
         "asset": "logo"
       }
     ]
