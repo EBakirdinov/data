@@ -1,32 +1,32 @@
 {
   "user": {
     "name": "Курантбек",
-    "car_name": "Hyundai Accent",
-    "car_number": "O1KG486ATK",
+    "car_name": "Hyundai Sonata",
+    "car_number": "01KG390ATQ",
     "user_image": "https://raw.githubusercontent.com/EBakirdinov/data/refs/heads/main/avatar.jpeg",
     "activities": [
       {
         "title": "Рейтинг", 
-        "value": "4.96",
+        "value": "4.98",
         "icon": "star",
         "icon_color": "#C09827"
       },
       {
         "title": "Уровень",
-        "value": "Бронза",
+        "value": "Серебро",
         "icon": "shield",
         "icon_color": "#C67035"
       },
       {
         "title": "Приоритет",
-        "value": "+45",
+        "value": "+47",
         "asset": "logo"
       }
     ]
   },
   "balance": {
-    "total": 3043,
-    "limit": 20
+    "total": 1431,
+    "limit": 30
   },
   "day": [
     {
