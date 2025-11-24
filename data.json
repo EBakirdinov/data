@@ -1,13 +1,13 @@
 {
   "user": {
-    "name": "Жандос",
+    "name": "Адамбек",
     "car_name": "Hyundai Sonata",
-    "car_number": "01KG390ATQ",
-    "user_image": "https://raw.githubusercontent.com/EBakirdinov/data/refs/heads/main/avatar-1.jpeg",
+    "car_number": "04KG194ANI",
+    "user_image": "https://raw.githubusercontent.com/EBakirdinov/data/refs/heads/main/avatar-3.jpeg",
     "activities": [
       {
         "title": "Рейтинг", 
-        "value": "4.98",
+        "value": "4.93",
         "icon": "star",
         "icon_color": "#C09827"
       },
@@ -19,7 +19,7 @@
       },
       {
         "title": "Приоритет",
-        "value": "+47",
+        "value": "+49",
         "asset": "logo"
       }
     ]
