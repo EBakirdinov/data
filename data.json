@@ -2,24 +2,24 @@
   "user": {
     "name": "Адамбек",
     "car_name": "Hyundai Sonata",
-    "car_number": "04KG194ANI",
+    "car_number": "01KG037ASR",
     "user_image": "https://raw.githubusercontent.com/EBakirdinov/data/refs/heads/main/avatar-3.jpeg",
     "activities": [
       {
         "title": "Рейтинг", 
-        "value": "4.93",
+        "value": "4.94",
         "icon": "star",
         "icon_color": "#C09827"
       },
       {
         "title": "Уровень",
-        "value": "Серебро",
+        "value": "Бронза",
         "icon": "shield",
         "icon_color": "#C67035"
       },
       {
         "title": "Приоритет",
-        "value": "+49",
+        "value": "+43",
         "asset": "logo"
       }
     ]
